@@ -1,8 +1,8 @@
 # Working With Data and Code A3 Git Repository 
 ## Table of Contents
-[Introduction](###Introduction)
-[Technologies](####Technologies)
-[Launch](#####Setup)
+* [Introduction](###Introduction)
+* [Technologies](####Technologies)
+* [Launch](#####Setup)
 ### Introduction
 
 #### Technologies
