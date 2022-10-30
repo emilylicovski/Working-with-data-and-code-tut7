@@ -37,6 +37,6 @@ import com.hamoid.*;
 
 VideoExport videoExport;
 ```
-As well as this, the data folder must also be downloaded as it contains the mp3 file currently encoded in the project's code. In this case it should contain the mp3 file for MammaMia.mp3
+As well as this, the data folder must also be downloaded as it contains the mp3 file currently encoded in the project's code. In this case it should contain the mp3 file for MammaMia.mp3. (This is what I downloaded and used as I was customising this project but feel free to download another song if you wish)
 
 One thing I learnt while doing this project was that the titles of each file downloaded must align exactly with the sketchbooks and the datas used for the project to work as these are the pathways that will get it running. It is important to double check that the name of the folder downloaded is the same as the name of the sketch so it can be correctly located and run smoothly.
