@@ -18,5 +18,24 @@ This project was created using:
 ### Setup
 It is crucial that all technologies and sketchbooks are installed and downloaded for the project to work. 
 Minim and VideoExport are two libraries available on Processing and must be installed before clicking 'Run'.
+To do so:
+1. Click Sketch in the above toolbar on Processing
+2. Click Import Library --> Manage Libraries
+3. Search for Minim and Install
+4. Search for VideoExport and Install
+
+The top of the code should look like this:
+```
+import ddf.minim.*;
+import ddf.minim.analysis.*;
+import ddf.minim.effects.*;
+import ddf.minim.signals.*;
+import ddf.minim.spi.*;
+import ddf.minim.ugens.*;
+
+import com.hamoid.*;
+
+VideoExport videoExport;
+```
 As well as this, the data folder must also be downloaded as it contains the mp3 file currently encoded in the project's code.
 One thing I learnt while doing this project was that the titles of each file downloaded must align exactly with the sketchbooks and the datas used for the project to work as these are the pathways that will get it running. It is important to double check that the name of the folder downloaded is the same as the name of the sketch so it can be correctly located and run smoothly.
